@@ -1,4 +1,4 @@
-# SP-29-Green.github.io
+# SP-29-Green: A Spotify App for iOS and Android
 
 
 ## Spotify Recommendation App
