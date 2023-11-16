@@ -3,7 +3,7 @@
 
 ### Contact us:
 
-| Sam Chandler (Project Lead)  | Jeremy Ray (Lead Developer)  | Lezly Serrano (Document Writer)  |
+| ![Headshot of Sam Chandler](/images/headshot-sam.jpg)  | ![Headshot of Jeremy Ray](/images/headshot-ray.jpg)  | ![Headshot of Lezly Serrano](/images/headshot-lezly.png)  |
 | :---:         |     :---:      |          :---: |
 | chandler.c.sam@gmail.com   | jeremyray4940@gmail.com     | serranolezly@gmail.com    |
-| ![Headshot of Sam Chandler](/images/headshot-sam.jpg)    | ![Headshot of Jeremy Ray](/images/headshot-ray.jpg)       | ![Headshot of Lezly Serrano](/images/headshot-lezly.png)     |
+| Sam Chandler (Project Lead)    | Jeremy Ray (Lead Developer)       | Lezly Serrano (Document Writer)     |
