@@ -1,9 +1,4 @@
-# SP-29-Green: A Spotify App for iOS and Android
-
-
-## Spotify Recommendation App
-
-### _Kennesaw State University_
+## _Kennesaw State University_
 
 
 ### Contact us:
