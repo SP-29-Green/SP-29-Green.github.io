@@ -1,4 +1,6 @@
-## _Kennesaw State University_
+# SP-29 Green: Creating a Spotify Recommendation App
+
+### _Kennesaw State University_
 
 
 ### Contact us:
