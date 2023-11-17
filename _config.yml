@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 
 show_downloads: true
-header_pages:
-  - external_link:
-      url: 'https://www.youtube.com/watch?v=SPpFcIOktLY'
-      title: 'Project Video'
+    github:  
+      zip_url: https://www.youtube.com/watch?v=SPpFcIOktLY&pp=ygUcaG93IHRvIHByb25vdW5jZSBwbGFjZWhvbGRlcg%3D%3D
+      tar_url: https://www.youtube.com/watch?v=SPpFcIOktLY&pp=ygUcaG93IHRvIHByb25vdW5jZSBwbGFjZWhvbGRlcg%3D%3D
