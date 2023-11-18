@@ -1,6 +1,7 @@
 ### SP-29 Green: Creating a Spotify Recommendation App
 
-### _Kennesaw State University_
+#### CS 4850 Sec 02, Fall 2023 – Sharon Perry  
+_Kennesaw State University_
 
 
 ### Contact us:
